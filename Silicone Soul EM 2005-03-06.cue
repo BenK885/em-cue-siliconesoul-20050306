@@ -1,12 +1,12 @@
 REM GENRE House
 REM DATE 2005
+REM COMMENT CUE sheet created by BenK885
 PERFORMER "Silicone Soul"
 TITLE "Essential Mix (2005-03-06)"
-FILE "Silicone Soul EM 2005-03-06.mp3" MP3
+FILE "Silicone Soul EM 2005-03-06.mp3" WAVE
   TRACK 01 AUDIO
     TITLE "Intro"
     PERFORMER "Pete Tong"
-    REM COMMENT CUE sheet created by BenK885
     INDEX 01 00:00:00
   TRACK 02 AUDIO
     TITLE "Burning Sands (Soma)"
